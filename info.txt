@@ -1,0 +1,4 @@
+Ridiculous implementation of a basic feedforward neural network
+Incomplete, woefully so
+When I started working on the project I was going to use this in (a lofty idea for a board game AI) I had no experience with neural networks and assumed an object-oriented design would serve. This is pretty obviously neither the cleanest nor the most efficient way to handle this kind of algorithm, and I've long since stopped working on this project anyway. In a new project of mine I make use of a much better design using state arrays and weight matrices without such a heavy emphasis on object-oriented style. This code is just here for my own personal reference so I can check back from time to time and make sure I suck less now than I did then.
+It's worth noting that I only found a single expletive when reviewing the code.
